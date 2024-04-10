@@ -38,7 +38,7 @@
  - (OPTIONAL) [Fixed ShortcutMenu](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14735751/fixedshortcut.zip)
     - Extract and put the folder to `X:\gta5\tools_ng\bin\`
  - (OPTIONAL) [3D Studio Max 2010 SDK](https://archive.org/details/sdk-3ds-max-2010)
- - (VERY OPTIONAL) [gIKgDXuVHNzIgXkiwpB.zip](https://big.fileditchnew.ch/b9/gIKgDXuVHNzIgXkiwpB.zip)
+ - (VERY OPTIONAL) [gIKgDXuVHNzIgXkiwpB.zip](https://www.bojarcz.uk/gIKgDXuVHNzIgXkiwpB.zip ) 
 
 ## Prebuilt Files
  - [Shaders](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14649717/common.zip)
