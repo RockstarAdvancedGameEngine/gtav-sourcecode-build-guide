@@ -204,11 +204,11 @@ If you ever modify the RPF files, dont forget to encrpyt them.<br>
    - Don't drag the both files at the same time, **just drag one by one**.
 
 ## Running The Game
-1. Rename Original GTA Executable to `LGTA5.exe` and Rename your compiled executable to `GTA5.exe`
+1. Make sure your compiled .exe is named "game_win64_bankrelease.exe" 
 2. In the game directory, create a file named `launch.bat` and add these contents:
 ```batch
 cd %~dp0
-GTA5.exe -noSocialClub -nokeyboardhook -nonetlogs
+game_win64_bankrelease.exe -noSocialClub -nokeyboardhook -nonetlogs
 ```
 3. (OPTIONAL) Add additional arguments:
  - `-kbgame` - Start game with game keyboard enabled
